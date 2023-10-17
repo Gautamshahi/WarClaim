@@ -1,19 +1,23 @@
 # [2023-Israel-Hamas-war](https://en.wikipedia.org/wiki/2023_Israel%E2%80%93Hamas_war)
 
-	[Markdown - Link](www.google.com)
-
-A repository of fact-checked and social media data on 2023 Israel–Hamas war
+A repository of fact-checked and social media data on the 2023 Israel-Hamas war
 
 # Dataset for 2023 Israel–Hamas war
 
-This GitHub repository corresponds to the dataset used for our research article titled **FakeCovid- A Multilingual Cross-domain Fact Check News Dataset for COVID-19**.
+This GitHub repository corresponds to the dataset used for our research article titled **Dataset for 2023 Israel–Hamas war**.
 
-The repository contains fact-checked articles and social media posts related to the 2023 Israel–-Hamas war. The data is extracted through the AMUSED(https://link.springer.com/chapter/10.1007/978-3-031-10525-8_23) framework. The data is collected from **24** fact-checking websites in **14** languages.
+The repository contains fact-checked articles and social media posts about the 2023 Israel–Hamas war. The data is extracted through the [AMUSED](https://link.springer.com/chapter/10.1007/978-3-031-10525-8_23) framework. The data is collected from **24** fact-checking websites in **14** languages.
 
 The sources used in this framework are listed below:
 
-|Fact-checking websites |  Langauge |  Articles Counts| Facebook_Link| Facebook_Link| Facebook_Link|Facebook_Link| Facebook_Link|
-|--|--|--|--|--|--|--|--|--|
+|Fact-checking websites |  Langauge | Articles Counts|
+|[Snopes](www.snopes.com)| English |20|
+|--|--|--|
+|--|--|--|
+|--|--|--|
+|--|--|--|
+|--|--|--|
+|--| 10 Languages |455|
 
 
 <!-- 
