@@ -1,4 +1,5 @@
 # [2023-Israel-Hamas-war][#https://en.wikipedia.org/wiki/2023_Israel%E2%80%93Hamas_war]
+#[2023-Israel-Hamas-war][https://doi.org/10.1016/j.osnem.2020.100104](https://en.wikipedia.org/wiki/2023_Israel%E2%80%93Hamas_war)
 
 	[Markdown - Link](www.google.com)
 
