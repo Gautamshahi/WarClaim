@@ -1,4 +1,4 @@
-# [2023-Israel-Hamas-war](#https://en.wikipedia.org/wiki/2023_Israel%E2%80%93Hamas_war]
+# [2023-Israel-Hamas-war][#https://en.wikipedia.org/wiki/2023_Israel%E2%80%93Hamas_war]
 
 A repository of fact-checked and social media data on 2023 Israel–Hamas war
 
