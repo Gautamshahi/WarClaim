@@ -2,17 +2,25 @@
 
 # Dataset for 2023 Israel–Hamas war
 
-This GitHub repository corresponds to the dataset used for our research article titled **Dataset for 2023 Israel–Hamas war**. The repository contains fact-checked articles and social media posts about the 2023 Israel–Hamas war. The data is extracted through the [AMUSED](https://link.springer.com/chapter/10.1007/978-3-031-10525-8_23) framework. The data is collected from **24** fact-checking websites in **14** languages. The sources used in this framework are listed below:
+This GitHub repository corresponds to the dataset used for our research article titled **Dataset for 2023 Israel–Hamas war**. The repository contains fact-checked articles and social media posts about the 2023 Israel–Hamas war. The data is extracted through the [AMUSED](https://link.springer.com/chapter/10.1007/978-3-031-10525-8_23) framework. The data is collected from **24** fact-checking websites in **14** languages. The sources used in this dataset are listed below(whose articles count is more than 10) overall, there are around 30 Fact-checking websites that published articles in 21 languages:
 
-|Fact-checking websites |  Langauge | Articles Counts|
-|--|--|--|
-|[Snopes](www.snopes.com)| English |20|
-|--|--|--|
-|--|--|--|
-|--|--|--|
-|--|--|--|
-|--|--|--|
-|--| 10 Languages |455|
+|Fact-checking websites|Articles Counts|
+|--|--|
+|[Logically](www.logically.ai/)|123 |
+|[The Dispatch](www.thedispatch.com)| 76|
+|[PolitiFact](www.politifact.com)| 70|
+|[Lead Stories](www.leadstories.com)| 51|
+|[Youturn](www.youturn.in)| 31|
+|[dpa](www.dpa-factcheking.com)| 26|
+|[Full Fact](www.fullfact.org)|25|
+|[FACTLY](www.factly.in)|  21|
+|[Snopes](www.snopes.com)|  20|
+|[Factcrescendo](www.factcrescendo.com)| 20|
+|[ABC News/AP Fact Check](www.apnews.com.com)|  19|
+|[factnameh](www.factnameh.com)|  14|
+|[El Detector/Univision Noticias](www.univision.com)|  14|
+|[Vera Files](www.verafiles.org)|  13|
+|30 Sources| 21 Languages |563|
 
 
 <!-- 
@@ -30,8 +38,8 @@ For now, cite [ICWSM Workshop paper](http://workshop-proceedings.icwsm.org/pdf/2
 
 ## Contact information
 
-If you need help or issues using data, please submit a GitHub issue.
+Please submit a GitHub issue if you need help or issues using data.
 
-For personal communication related to our work, please get in touch with Gautam Kishore Shahi(`gautamshahi16@gmail.com`).
+For personal communication related to our work, please contact Gautam Kishore Shahi(`gautamshahi16@gmail.com`).
 
 
