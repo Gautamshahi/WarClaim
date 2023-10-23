@@ -1,4 +1,4 @@
-# Dataset for [2023-Israel-Hamas-war](https://en.wikipedia.org/wiki/2023_Israel%E2%80%93Hamas_war)
+# Dataset for [2023 Israel–Hamas war](https://en.wikipedia.org/wiki/2023_Israel%E2%80%93Hamas_war)
 
 This GitHub repository corresponds to the dataset used for our research article titled **Dataset for 2023 Israel–Hamas war**. The repository contains fact-checked articles and social media posts about the 2023 Israel–Hamas war. The data is extracted through the [AMUSED](https://link.springer.com/chapter/10.1007/978-3-031-10525-8_23) framework. The data is collected from **52** fact-checking websites in **26** languages. The sources used in this dataset (whose article count is more than 10) are listed below. Overall, there are around 30 Fact-checking websites that published articles in 21 languages:
 
