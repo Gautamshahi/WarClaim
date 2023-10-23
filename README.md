@@ -1,24 +1,27 @@
 # Dataset for [2023-Israel-Hamas-war](https://en.wikipedia.org/wiki/2023_Israel%E2%80%93Hamas_war)
 
-This GitHub repository corresponds to the dataset used for our research article titled **Dataset for 2023 Israel–Hamas war**. The repository contains fact-checked articles and social media posts about the 2023 Israel–Hamas war. The data is extracted through the [AMUSED](https://link.springer.com/chapter/10.1007/978-3-031-10525-8_23) framework. The data is collected from **24** fact-checking websites in **14** languages. The sources used in this dataset (whose article count is more than 10) are listed below. Overall, there are around 30 Fact-checking websites that published articles in 21 languages:
+This GitHub repository corresponds to the dataset used for our research article titled **Dataset for 2023 Israel–Hamas war**. The repository contains fact-checked articles and social media posts about the 2023 Israel–Hamas war. The data is extracted through the [AMUSED](https://link.springer.com/chapter/10.1007/978-3-031-10525-8_23) framework. The data is collected from **52** fact-checking websites in **26** languages. The sources used in this dataset (whose article count is more than 10) are listed below. Overall, there are around 30 Fact-checking websites that published articles in 21 languages:
 
 |Fact-checking websites|Articles Counts|
 |--|--|
-|[Logically](www.logically.ai/)|123 |
-|[The Dispatch](www.thedispatch.com)| 76|
-|[PolitiFact](www.politifact.com)| 70|
-|[Lead Stories](www.leadstories.com)| 51|
-|[Youturn](www.youturn.in)| 31|
-|[dpa](www.dpa-factcheking.com)| 26|
-|[Full Fact](www.fullfact.org)|25|
-|[FACTLY](www.factly.in)|  21|
+|[Logically](www.logically.ai/)|164 |
+|[The Dispatch](www.thedispatch.com)| 101|
+|[PolitiFact](www.politifact.com)| 85|
+|[Lead Stories](www.leadstories.com)| 66|
+|[Youturn](www.youturn.in)| 45|
+|[Factcrescendo](www.factcrescendo.com)| 43|
+|[dpa](www.dpa-factcheking.com)| 39|
+|[FACTLY](www.factly.in)|  34|
+|[Boatos.org](www.Boatos.org)|33|
+|[Full Fact](www.fullfact.org)|31|
+|[ABC News/AP Fact Check](www.apnews.com.com)|  22|
 |[Snopes](www.snopes.com)|  20|
-|[Factcrescendo](www.factcrescendo.com)| 20|
-|[ABC News/AP Fact Check](www.apnews.com.com)|  19|
-|[factnameh](www.factnameh.com)|  14|
-|[El Detector/Univision Noticias](www.univision.com)|  14|
-|[Vera Files](www.verafiles.org)|  13|
-|30 Sourcees|563|
+|[factnameh](www.factnameh.com)|  20|
+|[El Detector/Univision Noticias](www.univision.com)|  20|
+|[Vera Files](www.verafiles.org)|  18|
+|[akhbarmeter](www.akhbarmeter.org/)|  16|
+|[FactCheck.org](www.FactCheck.org)|  12|
+|56 Sourcees|848|
 
 
 <!-- 
