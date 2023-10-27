@@ -4,7 +4,7 @@ This GitHub repository corresponds to the dataset used for our research article 
 
 The distribution of number of fact-checked articles is mentioned below:
 
-![Screenshot](timeline.png)
+![Screenshot](./Data/timeline.png)
 
 <!-- 
 |Fact-checking websites|Articles Counts|
