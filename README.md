@@ -2,7 +2,10 @@
 
 This GitHub repository corresponds to the dataset used for our research purpose. The repository contains fact-checked articles and social media posts about the 2023 Israel–Hamas war. The data is extracted through the [AMUSED](https://link.springer.com/chapter/10.1007/978-3-031-10525-8_23) framework. The shared content only contains links to the fact-checked articles. The dataset consists of around **2441** articles from **72** fact-checking websites in **35** languages. 
 
-The dataset contains the **published_date**, which refers to the date the article was published; the **Link** is the webpage of the fact-checked articles; and **news_language** is the language of the fact-checked articles. 
+The dataset contains the following attribute <br />
+**published_date**, which refers to the date the article was published <br />
+**Link** is the webpage of the fact-checked articles <br />
+**news_language** is the language of the fact-checked articles. 
 
 The distribution of a number of fact-checked articles is mentioned below:
 
