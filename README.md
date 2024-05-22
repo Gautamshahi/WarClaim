@@ -1,16 +1,16 @@
 # A Dataset for Fake News on [2023 Israel–Hamas war](https://en.wikipedia.org/wiki/2023_Israel%E2%80%93Hamas_war)
 
-This GitHub repository corresponds to the dataset used for our research purpose. The repository contains fact-checked articles and social media posts about the 2023 Israel–Hamas war. The data is extracted through the [AMUSED](https://link.springer.com/chapter/10.1007/978-3-031-10525-8_23) framework. The shared content only contains links to the fact-checked articles. The dataset consists of around **6917** articles from **131** fact-checking websites in **40** languages. Out of which, **3734** fact-checked articles refer to one of the social media claims. The dataset presents the fact-checked articles published from **7th October 2023** to **16th Febuary 2024**.
+This GitHub repository corresponds to the dataset used for our research purpose. The repository contains fact-checked articles and social media posts about the 2023 Israel–Hamas war. The data is extracted through the [AMUSED](https://link.springer.com/chapter/10.1007/978-3-031-10525-8_23) framework. The shared content only contains links to the fact-checked articles. The dataset consists of around **1362** articles from **131** fact-checking websites in **40** languages. Out of which, **1062** fact-checked articles refer to one of the social media claims. The dataset presents the fact-checked articles published from **7th October 2023** to **16th February 2024**.
 
 The dataset contains the following attribute <br />
 **published_date**, which refers to the date the article was published <br />
 **Link** is the webpage of the fact-checked articles <br />
 **news_language** is the language of the fact-checked articles. 
-**Link to the social media post** In the other file, a social media link is provided which consists of a claim. 
+**Link to the social media post** In the other file, a social media link containing a claim is provided. 
 
 The distribution of a number of fact-checked articles is mentioned below:
 
-![Screenshot](./Data/timeline.png)
+![Screenshot](./Data/table_data.png)
 
 <!-- 
 |Fact-checking websites|Articles Counts|
